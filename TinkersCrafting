@@ -1,0 +1,36 @@
+ModIdeas
+========
+
+/* TinkersCrafting */
+//GEARS
+- Create wood/stone gears same as usual
+- Create metal gears by placing stone gear on casting bench and pooring Motlen <Ingot Name> on top of it. 
+- 5 Ingots per Gear
+
+//ARMOR
+- Tinkers Armor
+- Chest/Leg/Feet/Helm casts
+- Bone Upgrades
+- - Adds protection
+- - 50 bones per protection level
+- Magma Cream
+- - Fire Resistance
+- - 10 magma cream per protection level
+- Cactus
+- - Damage opponent when you are hit with melee (10% chance at level 1, 30% chance at level 3)
+- - 50 cactus per level
+- Redstone (legs only)
+- - Run speed
+- - 50 redstone is +2% run speed (max 3 levels)
+- Lapis
+- - Chance to parry/dodge
+- Emerald
+- - Durability bonus
+- Diamond
+- - Durability bonus
+- Wither Bone
+- - Regen
+- -- 1/2 heart per 30 seconds
+- -- 10 seconds time reduction per level (max level 3)
+- --- I.E. 1/2 every 20 seconds at level 2, 10 seconds at level 3
+- 
