@@ -11,6 +11,7 @@ ModIdeas
 - Create the ability to add Chatchannels (Global, Local, Trade, etc...)
 - Be able to color channels different colors
 - Colorize name for status (player, mod, admin, etc...)
+- Mute players globally or per channel
 
 
 Yeah, I know, "Sounds like WoW's chat system!" Get over it, I'm sure WoW took it from someplace else too. It's a good system and it works :P
