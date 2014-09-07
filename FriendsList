@@ -1,0 +1,15 @@
+ModIdeas
+========
+
+/* Friends List */
+
+- Implement a friends list people can add/remove from individually
+- Save list to player's .dat file
+- Allow people to have an ignore list
+-- Locally mutes ignored player
+-- Private messages will be ignored
+-- Mail will be ignored
+- Friends list will display if person is online
+- Link up to IRC to see if they are online in designated channel (?)
+- Friends List/Ignore List can be used in conjunction with CoFH Friends List
+- Also used in conjuction with FlameStones as a whitelist/blacklist
