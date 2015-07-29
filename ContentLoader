@@ -1,0 +1,5 @@
+- All blocks/items loaded in via jsons
+- Custom things like materials, crafting recipes, quests, npcs/mobs, models, etc... can all be added to the game via jsons
+- Removes the need for class files when adding simple things that just imitate usual minecraft behavior (e.g. a new mobs with a custom model and texture but just does the same thing as a zombie, blocks that act like chests, etc...)
+- When creating more complex blocks/items/etc..., simply refer to the json once and create a cached definition of the block for use when manipulating it
+- When connecting to a server, the server checks with the client to ensure it has the neccisary jsons loaded to run the game, if not, client will download them from the server (with user permission) and refresh the local db on the client side. The client will leave unneeded jsons alone and just not load them.
