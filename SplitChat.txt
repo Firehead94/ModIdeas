@@ -14,4 +14,4 @@ ModIdeas
 - Mute players globally or per channel
 
 
-Yeah, I know, "Sounds like WoW's chat system!" Get over it, I'm sure WoW took it from someplace else too. It's a good system and it works :P
+
